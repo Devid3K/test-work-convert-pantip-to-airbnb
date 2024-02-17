@@ -11,7 +11,7 @@
             <p class="prompt text-[12px] font-medium text-[rgb(106,90,205)]">ค้นหา</p>
           </div>
           <div >
-            <img class="h-8 m-auto" src="../../assets/icons8-compass-50.png" alt="" />
+            <img class="h-8 m-auto" src="../../assets/icons8-filter-30.png" alt="" />
             <p class="prompt text-[12px] font-medium">Explore</p>
           </div>
           <div >
