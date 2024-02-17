@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="md:border-t-[1px] pl-5 pr-5 mt-6 pb-1 md:flex w-full  gap-8 justify-between overflow-x-scroll md:border-b-[1px] shadow-sm">
+    <div class=" pl-5 px-6 mt-6 py-1  md:flex w-full  gap-8 justify-between overflow-x-scroll md:border-b-[1px] md:border-t-[1px] shadow-sm">
       <!-- sm-category -->
       <div
         class="w-full md:w-full component-sm-hidden border-b-[1px] shadow-sm overflow-x-scroll overflow-y-hidden flex gap-4 no-scrollbar  relative"
@@ -25,11 +25,11 @@
         </div>
       <!-- md-category -->
       
-      <Carousel class=" component-md-hidden  no-scrollbar mt-4 "/>
+      <Carousel class=" component-md-hidden  no-scrollbar  "/>
 
       <!-- filter -->
       <div
-        class="flex justify-between lg:justify-end w-full lg:w-auto mt-4 gap-4 h-14 component-md-hidden bg-transparent"
+        class="flex justify-between item-center lg:justify-end w-full lg:w-auto mt-[0.6rem] gap-4 h-14 component-md-hidden bg-transparent"
       >
         <div
           class="btn cursor-pointer transition ease-in-out delay-150 hover:bg-slate-200 duration-150 w-max px-4 border-[1px] rounded-3xl flex gap-2 promt whitespace-nowrap items-center text-center"

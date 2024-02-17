@@ -1,5 +1,5 @@
 <template>
-  <carousel  class="overflow-x-scroll  ">
+  <carousel  class="overflow-x-scroll mt-1 ">
     <slide
       class="   overflow-y-hidden flex  no-scrollbar mt-4 "
     >
@@ -8,8 +8,7 @@
         class="w-full p-2 cursor-pointer hover:scale-110 duration-200 hover:bg-slate-200 promt rounded-lg pt-1 text-center whitespace-nowrap"
       >
         <img class="m-auto h-8" :src="category.img_src" alt="" />
-
-        <p class="font-bold">{{ category.name }}</p>
+        <p class="font-bold mt-1">{{ category.name }}</p>
       </div>
     </slide>
     <slide
