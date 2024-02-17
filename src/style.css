@@ -1,0 +1,10 @@
+::-webkit-scrollbar {
+    display: none;
+  }
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
+  input[type="text"] {
+    border: none;
+    outline: none; 
+  }
