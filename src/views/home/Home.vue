@@ -48,13 +48,7 @@
               class="flex w-full promt font-light whitespace-nowrap text-center justify-between items-center truncate"
             >
               <div>
-                <label for="">
-                  <input
-                    type="text"
-                    placeholder="ผู้เขียน"
-                    class="truncate whitespace-nowrap w-20 promt outline-none border-0"
-                  />
-                </label>
+                <p class="truncate whitespace-nowrap w-20 promt outline-none border-0 text-slate-400">ผู้เขียน</p>
               </div>
               <div>
                 <img
