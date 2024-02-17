@@ -1,7 +1,7 @@
 <template>
   <carousel  class="overflow-x-scroll mt-1 ">
     <slide
-      class="   overflow-y-hidden flex  no-scrollbar mt-4 "
+      class="   overflow-y-hidden flex  no-scrollbar "
     >
       <div
         v-for="category in categorys"
@@ -12,7 +12,7 @@
       </div>
     </slide>
     <slide
-      class="   overflow-y-hidden flex  no-scrollbar mt-4 "
+      class="   overflow-y-hidden flex  no-scrollbar"
     >
       <div
         v-for="category in categorys"
@@ -24,7 +24,7 @@
       </div>
     </slide>
     <slide
-      class="    overflow-y-hidden flex  no-scrollbar mt-4 "
+      class="    overflow-y-hidden flex  no-scrollbar "
     >
       <div
         v-for="category in categorys"
