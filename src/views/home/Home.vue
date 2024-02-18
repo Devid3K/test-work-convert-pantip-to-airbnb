@@ -2,10 +2,10 @@
   <div class="">
     <header class="fixed top-0 left-0 w-full lg:px-8  bg-white z-20">
       <div
-        class="component-sm-hidden hover:scale-110 flex px-8 gap-8 mt-4 z-10"
+        class="component-sm-hidden  flex px-8 gap-8 mt-4 z-10"
       >
         <div
-          class="search-bar w-full p-2 pl-5 rounded-full flex gap-4 justify-left items-center shadow-lg"
+          class="search-bar w-full p-2 pl-5 rounded-full hover:scale-110 flex gap-4 justify-left items-center shadow-lg"
         >
           <img class="h-6 w-6" src="../../assets/icons8-search-50.png" alt="" />
           <div class="">
@@ -16,7 +16,7 @@
           </div>
         </div>
         <div
-          class="h-[50px] w-[60px] rounded-full fliter-box flex m-auto justify-center items-center"
+          class="h-[50px] w-[60px] rounded-full hover:scale-110 fliter-box flex m-auto justify-center items-center"
         >
           <img class="h-6 w-6" src="../../assets/icons8-filter-48.png" alt="" />
         </div>
